@@ -41,7 +41,7 @@ If you are saving your progress on freeCodeCamp.org, after getting all the tests
 
 11. You should create a script file named **salon.sh** in the project folder
 
-12. Your script file should have a “shebang” that uses bash when the file is executed `(use #! /bin/bash)`
+12. Your script file should have a “shebang” that uses bash when the file is executed (`use #! /bin/bash`)
 
 13. Your script file should have executable permissions
 
